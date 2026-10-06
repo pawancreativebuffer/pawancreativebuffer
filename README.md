@@ -107,8 +107,3 @@ Following competitive gaming and esports.
 <p align="center">
   💻 Software &nbsp; • &nbsp; 🤖 AI &nbsp; • &nbsp; 🎮 Esports
 </p>
-:::
-
-**Important:** ऊपर वाले writing block के अंदर जो content है, उसे copy करते समय **सिर्फ अंदर का content** copy करना है। `:::writing...` वाली lines copy मत करना।
-
-और एक चीज़: मैंने `skillicons.dev` वापस रखा है क्योंकि वह **tech-stack icons के लिए अच्छा visual देता है**। अगर तुम्हें सच में **zero external image dependency** वाला README चाहिए, तो मैं अगला version सिर्फ GitHub/Shield badges पर बना दूँगा।
