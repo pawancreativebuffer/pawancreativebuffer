@@ -1,7 +1,4 @@
 
-### ✅ README.md mein directly ye content paste karo
-
-:::writing{variant="document" id="61843" title="GitHub Profile README.md"}
 <h1 align="center">👋 Hi, I'm Pawan</h1>
 
 <p align="center">
