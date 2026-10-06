@@ -1,4 +1,7 @@
-````markdown
+
+### ✅ README.md mein directly ye content paste karo
+
+:::writing{variant="document" id="61843" title="GitHub Profile README.md"}
 <h1 align="center">👋 Hi, I'm Pawan</h1>
 
 <p align="center">
@@ -17,25 +20,25 @@
 <tr>
 <td align="center" width="33%">
 
-### 🎫 Ticket-IT
+<h3>🎫 Ticket-IT</h3>
 
-Currently working on **Ticket-IT** and building new features to make the platform better, faster and more reliable.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 AI
-
-Currently learning **Artificial Intelligence**, exploring LLMs, Generative AI and modern AI-powered applications.
+Currently working on <strong>Ticket-IT</strong> and building new features to make the platform better, faster and more reliable.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🎮 Esports
+<h3>🤖 AI</h3>
 
-Interested in **Esports, competitive gaming and the technology behind modern gaming experiences.**
+Currently learning <strong>Artificial Intelligence</strong>, exploring LLMs, Generative AI and modern AI-powered applications.
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🎮 Esports</h3>
+
+Interested in <strong>Esports, competitive gaming and gaming technology.</strong>
 
 </td>
 </tr>
@@ -43,113 +46,72 @@ Interested in **Esports, competitive gaming and the technology behind modern gam
 
 ---
 
-# 🧠 Currently Learning
-
-```text
-                     ARTIFICIAL INTELLIGENCE
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-            LLMs          Generative AI     AI Agents
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                     AI-Powered Software
-````
-
----
-
-# 🛠️ Technologies
+## 🧠 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Learning-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Exploring-2563EB?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-Exploring-9333EA?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 ---
 
-# 🎯 My Current Journey
+## 💻 Developer Stack
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   💻 DEVELOPMENT                                         │
-│        │                                                 │
-│        ├── 🎫 Ticket-IT                                  │
-│        │                                                 │
-│        ▼                                                 │
-│   🤖 ARTIFICIAL INTELLIGENCE                             │
-│        │                                                 │
-│        ├── LLMs                                          │
-│        ├── Generative AI                                 │
-│        ├── AI Agents                                     │
-│        │                                                 │
-│        ▼                                                 │
-│   🚀 BUILDING THE FUTURE                                 │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,aws,docker,git,github,postgresql" />
+</p>
 
 ---
 
-# 🎮 Outside The Code
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td>
+
+🎫 **Ticket-IT**  
+Building and improving the platform.
+
+</td>
+<td>
+
+🤖 **Artificial Intelligence**  
+Learning modern AI technologies and LLMs.
+
+</td>
+<td>
+
+🎮 **Esports**  
+Following competitive gaming and esports.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
 
 <p align="center">
 
-**CODE** 💻    ×   
-**AI** 🤖    ×   
-**ESPORTS** 🎮
+<img src="https://github-readme-stats.vercel.app/api?username=pawan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 </p>
 
-I'm interested in the world of **Esports and competitive gaming** — from competitive gameplay and strategy to the technology powering modern gaming.
-
 ---
 
-# 📌 What You'll Find Here
-
-```text
-💻 Software Development
-🤖 AI Experiments & Learning
-🎫 Ticket-IT Development
-⚡ Projects & Experiments
-🎮 Esports & Gaming Interests
-```
-
----
-
-# 🌟 GitHub Activity
+## ⚡
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pawan&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <strong>Build. Learn. Explore.</strong>
 </p>
-
-> 💡 GitHub automatically updates this section as repositories, commits and activity change.
-
----
-
-<h2 align="center">⚡ Build • Learn • Explore • Repeat</h2>
 
 <p align="center">
-  <i>Thanks for visiting my GitHub profile.</i>
+  💻 Software &nbsp; • &nbsp; 🤖 AI &nbsp; • &nbsp; 🎮 Esports
 </p>
-```
+:::
 
-**Note:** Maine username ko `pawan` assume kiya hai sirf stats ke liye, kyunki GitHub Stats ko kisi username ki zarurat hoti hai. Agar tumhara actual GitHub username `pawan` nahi hai, to **sirf stats section ko remove karna padega**—baaki README mein kuch change nahi karna hoga.
+**Important:** ऊपर वाले writing block के अंदर जो content है, उसे copy करते समय **सिर्फ अंदर का content** copy करना है। `:::writing...` वाली lines copy मत करना।
+
+और एक चीज़: मैंने `skillicons.dev` वापस रखा है क्योंकि वह **tech-stack icons के लिए अच्छा visual देता है**। अगर तुम्हें सच में **zero external image dependency** वाला README चाहिए, तो मैं अगला version सिर्फ GitHub/Shield badges पर बना दूँगा।
