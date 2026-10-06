@@ -1,8 +1,8 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pawan 👋
 
-### [Your Role / Title]
+### Software Engineer
 
-I'm a passionate **[Your Role]** focused on building scalable, modern, and impactful software solutions.
+I'm a passionate **Software Engineer** focused on building scalable, modern, and impactful software solutions.
 
 - 🔭 Currently working on **[Current Focus / Project]**
 - 🌱 Currently learning **[Technology / Skill you're learning]**
